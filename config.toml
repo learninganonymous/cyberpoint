@@ -1,6 +1,6 @@
-baseURL = "https://learninganonymous.github.io/"
+baseURL = "https://mdriyazahmed.github.io/"
 languageCode = "en-us"
-title = "my-cybersecurity-blog"
+title = "cyberpoint"
 theme = "relearn"
 
 # Optional: You can add more customization settings below
